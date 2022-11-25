@@ -1,0 +1,68 @@
+const menu = [
+  {
+    id: 1,
+    title: 'Dosa',
+    category: 'breakfast',
+    price: 15.99,
+    img: './images/item1.jpg',
+    desc: `a thin and crispy crepe made from rice and urad dal (black lentils), served with Coconut Chutney and Vegetable Sambar is a match made in heaven! `,
+  },
+  {
+    id: 2,
+    title: 'Khachori',
+    category: 'breakfast',
+    price: 13.99,
+    img: './images/item2.jpg',
+    desc: ` fried South Asian pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas. `,
+  },
+  {
+    id: 3,
+    title: 'Samosa',
+    category: 'breakfast',
+    price: 6.99,
+    img: './images/item3.jpg',
+    desc: `A samosa (/səˈmoʊsə/) or singara is a fried South Asian pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas..`,
+  },
+  {
+    id: 4,
+    title: 'Fries',
+    category: 'breakfast',
+    price: 20.99,
+    img: './images/item4.jpg',
+    desc: `French fries are served hot, either soft or crispy, and are generally eaten as part of lunch or dinner or by themselves as a snack `,
+  },
+  {
+    id: 5,
+    title: 'Paneer',
+    category: 'lunch',
+    price: 22.99,
+    img: './images/item5.jpg',
+    desc: `Paneer is an Indian cheese that's made from curdled milk and some sort of fruit or vegetable acid like lemon juice `,
+  },
+  {
+    id: 6,
+    title: 'Palak Paneer',
+    category: 'lunch',
+    price: 18.99,
+    img: './images/item6.jpg',
+    desc: `Paneer is an Indian cheese that's made from curdled milk and some sort of fruit or vegetable acid like lemon juice`,
+  },
+  {
+    id: 7,
+    title: 'Muttor Paneer',
+    category: 'lunch',
+    price: 8.99,
+    img: './images/item7.jpg',
+    desc: `Matar Paneer is a popular North Indian dish of Indian cottage cheese aka Paneer and peas cooked in a spicy and flavorsome curry.`,
+  },
+  {
+    id: 8,
+    title: 'Paav Bhaji',
+    category: 'lunch',
+    price: 12.99,
+    img: './images/item8.jpg',
+    desc: ` a spicy curry of mixed vegetables (bhaji) cooked in a special blend of spices and served with soft buttered pav `,
+  },
+  
+];
+export default menu;
